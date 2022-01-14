@@ -1,0 +1,54 @@
+/* 
+font-family: 'Caveat', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Roboto Slab', serif; 
+*/
+
+
+
+
+body {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+
+h1, h2, h3, p {
+    display: inline;
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h2, h3 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.highlight {
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+    color: rgb(228, 108, 10);
+    
+}
+
+.bigger {
+    font-size: 35px;
+    
+}
+
+.wrapper {
+    width: 70%;
+    margin: 80px auto;
+}
+
+.write-rl {
+    writing-mode: vertical-rl;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
